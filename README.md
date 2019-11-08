@@ -1,7 +1,8 @@
-# Nemesis-Configs (Upadated - 11/5/2019)
+# Nemesis-Configs (Upadated - 11/8/2019)
 Free Nemesis Configs
 
-default.nem - Is the auto config
+default.nem - Is the auto config 
+  - Changed hitchances
 
 matchmaking rage.nem - Is the scout config
 
