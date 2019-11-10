@@ -10,6 +10,8 @@ default.nem - Is the auto config
   - Changed around the visuals to be more estecilly nice
 
 matchmaking rage.nem - Is the scout config
+  - Changed the min damages 
+  - Changed hitchances
 
 misc.nem - Pistol round config
 
