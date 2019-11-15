@@ -6,8 +6,10 @@ default.nem - Is the auto config
   - Modified the multipoints
   - Changed around the hitboxes to hit more head
   - Changed the min damages
-  - Made the min damages based on actual HP
-  - Changed around the visuals to be more estecilly nice
+  - Changed hitboxes
+  - Changed safepoints
+  - Changed baim options to hit more head
+  - Changed around the visuals to be more estecilly pleasing
 
 matchmaking rage.nem - Is the scout config
   - Changed the min damages 
