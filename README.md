@@ -14,6 +14,8 @@ default.nem - Is the auto config
 matchmaking rage.nem - Is the scout config
   - Changed the min damages 
   - Changed hitchances
+  - Changed safepoints
+  - Changed the multipoints
 
 misc.nem - Pistol round config
 
