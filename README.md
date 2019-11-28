@@ -1,4 +1,4 @@
-# Nemesis-Configs (Upadated - 11/23/2019)
+# Nemesis-Configs (Upadated - 11/28/2019)
 Free Nemesis Configs
 
 default.nem - Is the auto config 
