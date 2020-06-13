@@ -1,4 +1,4 @@
-# Nemesis-Configs (Upadated - 6/11/2020)
+# Nemesis-Configs (Upadated - 6/13/2020)
 Free Nemesis Configs
 
 # scout.nem
