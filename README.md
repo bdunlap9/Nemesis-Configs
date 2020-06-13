@@ -3,3 +3,6 @@ Free Nemesis Configs
 
 # scout.nem
 - Changed min damages
+- changed min damage override
+
+# auto.nem
